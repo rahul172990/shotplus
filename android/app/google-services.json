@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655533992664",
+    "firebase_url": "https://goofy-b91fa.firebaseio.com",
+    "project_id": "goofy-b91fa",
+    "storage_bucket": "goofy-b91fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655533992664:android:cbfe79b480213a067905ad",
+        "android_client_info": {
+          "package_name": "com.shotplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655533992664-j7cf8laj42snmre2ed4ivl84lc22qp68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shotplus",
+            "certificate_hash": "3b3b6d8d01fc210a48d1285e51ce76d350275635"
+          }
+        },
+        {
+          "client_id": "655533992664-li6ri2u4ovom9astt3vr29ot9od3b41c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3BvYRKRWOUIChQVaTvzUekyL7TAHnDQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655533992664-li6ri2u4ovom9astt3vr29ot9od3b41c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
